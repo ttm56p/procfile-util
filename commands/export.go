@@ -5,8 +5,8 @@ import (
 	"io/ioutil"
 	"os"
 	"os/user"
-	"procfile-util/export"
-	"procfile-util/procfile"
+	"github.com/ttm56p/procfile-util/export"
+	"github.com/ttm56p/procfile-util/procfile"
 	"strconv"
 	"strings"
 

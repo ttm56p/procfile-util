@@ -3,7 +3,7 @@ package commands
 import (
 	"io/ioutil"
 	"os"
-	"procfile-util/procfile"
+	"github.com/ttm56p/procfile-util/procfile"
 	"strconv"
 	"strings"
 

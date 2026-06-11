@@ -3,7 +3,7 @@ package commands
 import (
 	"fmt"
 	"os"
-	"procfile-util/procfile"
+	"github.com/ttm56p/procfile-util/procfile"
 
 	"github.com/josegonzalez/cli-skeleton/command"
 	"github.com/posener/complete"
