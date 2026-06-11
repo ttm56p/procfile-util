@@ -6,7 +6,7 @@ import (
 	"strconv"
 	"text/template"
 
-	"procfile-util/procfile"
+	"github.com/ttm56p/procfile-util/procfile"
 
 	"github.com/mitchellh/cli"
 )
