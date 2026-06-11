@@ -1,4 +1,4 @@
-module procfile-util
+module github.com/ttm56p/procfile-util
 
 go 1.25.0
 
