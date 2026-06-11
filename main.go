@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"os"
 
-	"procfile-util/commands"
+	"github.com/ttm56p/procfile-util/commands"
 
 	"github.com/josegonzalez/cli-skeleton/command"
 	"github.com/mitchellh/cli"
